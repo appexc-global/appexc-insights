@@ -1,7 +1,8 @@
 # The Evolution of Digital Gaming Payments in 2026: Building Better Experiences for Global Players
 
-**Published: 2026**
+🌐 Language: [English](./2026-the-evolution-of-digital-gaming-payments.md) | [中文](../zh/2026-the-evolution-of-digital-gaming-payments-zh.md)
 
+**Published: 2026**
 ## Introduction
 
 The gaming industry has evolved from a traditional entertainment market into a global digital ecosystem.
