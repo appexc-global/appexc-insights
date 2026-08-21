@@ -1,5 +1,7 @@
 # 2026 年数字游戏支付的发展：为全球玩家打造更好的数字体验
 
+🌐 Language: [English](../en/2026-the-evolution-of-digital-gaming-payments.md) | [中文](./2026-the-evolution-of-digital-gaming-payments-zh.md)
+
 **发布时间：2026**
 
 ## 引言
