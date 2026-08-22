@@ -1,34 +1,43 @@
 # APPEXC Insights Articles
 
-Research, observations, and perspectives about gaming, digital entertainment, and global digital services.
+A collection of research, observations, and perspectives on gaming, digital entertainment, and global digital services.
 
 ---
 
-## 🌐 English Articles
+# English Articles
 
-### 2026
+## 2026
+
+### Gaming Payments
 
 - [The Evolution of Digital Gaming Payments in 2026: Building Better Experiences for Global Players](./en/2026-the-evolution-of-digital-gaming-payments.md)
 
----
+### Mobile Gaming
 
-## 🇨🇳 中文文章
-
-### 2026
-
-- [2026 年数字游戏支付的发展：为全球玩家打造更好的数字体验](./zh/2026-the-evolution-of-digital-gaming-payments-zh.md)
+- [Global Mobile Gaming in 2026: How Games Are Becoming Borderless Digital Communities](./en/2026-mobile-gaming-globalization-trends.md)
 
 ---
 
-## About APPEXC Insights
+# 中文文章
 
-APPEXC Insights explores trends and perspectives in:
+## 2026
 
-- Gaming industry
-- Digital entertainment
-- Global player experiences
-- Digital services and technology
+### 游戏支付
 
-Website:
+- [2026年数字游戏支付的发展：为全球玩家打造更好的数字体验](./zh/2026-the-evolution-of-digital-gaming-payments-zh.md)
 
-https://appexc.com
+### 移动游戏全球化
+
+- [2026年全球移动游戏趋势：游戏如何成为跨地域的数字社区](./zh/2026-mobile-gaming-globalization-trends-zh.md)
+
+---
+
+## Categories
+
+Current topics:
+
+- Gaming Industry
+- Digital Payments
+- Mobile Gaming
+- Global Player Communities
+- Digital Entertainment
